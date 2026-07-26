@@ -1,0 +1,1 @@
+/**Implemente métodos em CarroEletrico para carregar a bateria e mostrar o status da carga. */

@@ -1,0 +1,1 @@
+/**Converta para Arrow Function: Converta a função do exercício anterior em uma arrow function e compare a sintaxe. */

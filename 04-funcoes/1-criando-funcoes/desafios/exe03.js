@@ -1,0 +1,1 @@
+/**Função de Multiplicação: Crie uma função que aceita dois números e retorna o produto deles. Experimente escrevê-la como uma declaração de função e como uma expressão de função. */

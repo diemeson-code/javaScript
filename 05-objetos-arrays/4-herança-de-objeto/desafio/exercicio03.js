@@ -1,0 +1,2 @@
+/*Analisando a Cadeia de Protótipos: Utilize as funções Object.getPrototypeOf e Object.hasOwnProperty para
+ analisar a cadeia de protótipos de um objeto e determinar de onde as propriedades estão vindo. */

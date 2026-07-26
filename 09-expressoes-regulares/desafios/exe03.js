@@ -1,0 +1,1 @@
+/**Validar Nome de Usuário: Crie uma expressão regular que valide um nome de usuário. O nome de usuário deve começar com uma letra e pode conter letras, números, hifens e sublinhados. Deve ter entre 5 e 15 caracteres. */

@@ -1,0 +1,1 @@
+/**Erro de Hoisting: Escreva um código que tente chamar uma função antes de declará-la usando uma expressão de função e observe o erro. Em seguida, corrija o erro. */

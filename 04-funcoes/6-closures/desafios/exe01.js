@@ -1,0 +1,1 @@
+/**Refatore o Código: Dado o exemplo de erro comum mostrado na seção de boas práticas, refatore o código usando let em vez de var e explique por que isso resolve o problema. */

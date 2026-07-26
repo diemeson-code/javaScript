@@ -1,0 +1,1 @@
+/**Switch Aninhado: Crie um exemplo de switch aninhado onde você tem um switch dentro de outro switch. Isso pode ser útil, por exemplo, ao avaliar categorias e subcategorias. */

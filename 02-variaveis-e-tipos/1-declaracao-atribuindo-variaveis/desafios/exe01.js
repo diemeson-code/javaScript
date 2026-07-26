@@ -1,0 +1,1 @@
+// Declare uma função chamada testeHoisting e, dentro dela, tente imprimir uma variável let chamada escola antes de declará-la. O que acontece?

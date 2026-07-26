@@ -1,0 +1,1 @@
+/**Teste Suas Regex: Utilize o site regex101.com para testar e validar as expressões regulares utilizadas. Experimente diferentes valores e veja como as expressões regulares reagem a eles. */

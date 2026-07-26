@@ -1,0 +1,1 @@
+/**Crie uma Função Simples: Escreva uma função chamada saudacao que aceita um nome como parâmetro e retorna uma saudação como “Olá, [Nome]!”. */

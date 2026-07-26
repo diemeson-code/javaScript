@@ -1,0 +1,2 @@
+/**Verificar se uma Senha é Forte: Crie uma expressão regular que verifique se uma senha é forte. Uma senha forte deve ter pelo menos 8 caracteres, incluindo pelo menos um número, uma letra maiúscula e uma letra minúscula.
+ */

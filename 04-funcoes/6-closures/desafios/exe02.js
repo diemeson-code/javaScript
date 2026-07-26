@@ -1,0 +1,1 @@
+/** Crie uma Closure para Encapsulamento: Crie uma função que retorna uma Closure, a qual encapsula uma variável privada. A Closure deve ter métodos para alterar e acessar o valor da variável privada. */

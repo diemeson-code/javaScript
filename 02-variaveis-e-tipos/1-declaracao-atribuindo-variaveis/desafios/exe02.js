@@ -1,0 +1,1 @@
+//Ainda na função testeHoisting, declare uma variável var chamada curso após tentar imprimir no console, mas inicialize-a após o console.log. O que é exibido no console e por quê?

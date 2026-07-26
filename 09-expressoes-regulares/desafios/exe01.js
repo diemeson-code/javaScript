@@ -1,0 +1,1 @@
+/**Validar um Número de Telefone: Escreva uma expressão regular que valide um número de telefone no formato (XX) XXXXX-XXXX, onde X é um dígito. */

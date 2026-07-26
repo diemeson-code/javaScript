@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="myDiv">Este é um exemplo de div.</div>
+
+    <p class="highlight">Parágrafo 1</p> 
+    <p class="highlight">Parágrafo 2</p>
+
+    <span class="oldStyle">Texto de exemplo.</span>
+
+    <script>
+        const elemento = document.getElementById("myDiv");
+        console.log(elemento.textContent);
+
+        const elementos = document.querySelectorAll(".highlight");
+        elementos.forEach(e => console.log(e.textContent));
+
+        const antigo = document.getElementsByClassName("oldStyle");
+        console.log(antigo[0].textContent);
+    </script>
+</body>
+</html>
+

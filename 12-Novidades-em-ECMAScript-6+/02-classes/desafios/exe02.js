@@ -1,0 +1,1 @@
+/**Extend a classe Carro para criar uma classe CarroEletrico, que tem uma propriedade adicional para a autonomia da bateria. */
